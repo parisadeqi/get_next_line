@@ -1,6 +1,6 @@
 # get_next_line
 
-This project is about programming a function that returns a line read from a file descriptor and also we learned the concept of static variables in C programming.
+This project is about programming a function that returns a line read from a file descriptor or muliple file descriptors and also we learned the concept of static variables in C programming.
 
 ## Build
 You can compile the code as follows for mandatory part(a buffer size of 42 is used as an example):
